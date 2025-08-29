@@ -1,0 +1,6 @@
+[submodule "playground-nav3"]
+	path = playground-nav3
+	url = https://github.com/kk-house-777/playground-nav3.git
+[submodule "playground-soil"]
+	path = playground-soil
+	url = https://github.com/kk-house-777/playground-soil.git
