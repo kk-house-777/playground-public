@@ -4,3 +4,6 @@
 [submodule "playground-soil"]
 	path = playground-soil
 	url = https://github.com/kk-house-777/playground-soil.git
+[submodule "playground-metro"]
+	path = playground-metro
+	url = ./playground-metro
