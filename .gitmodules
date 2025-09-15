@@ -7,3 +7,6 @@
 [submodule "playground-metro"]
 	path = playground-metro
 	url = ./playground-metro
+[submodule "playground-swift-something"]
+	path = playground-swift-something
+	url = ./playground-swift-something
